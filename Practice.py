@@ -7,6 +7,5 @@ y = [2, 4, 8]
 # plt.plot(x, y)
 # plt.show()
 
-# I am printing the sum to test branching and merging
-
-print(x+y)
+print("This is the sum of x and y:", x+y)
+print("The difference between the two arrays is:", y-x)
