@@ -6,3 +6,5 @@ y = [2, 4, 8]
 
 # plt.plot(x, y)
 # plt.show()
+
+print("The difference between the two arrays is:", y-x)
